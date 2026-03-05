@@ -1,0 +1,15 @@
+# Environment and secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Results / generated data
+llm-qwen-deployment/results/
+
+# Optional
+.venv/
+venv/
+*.egg-info/

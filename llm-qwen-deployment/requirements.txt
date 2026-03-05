@@ -1,0 +1,7 @@
+# Install on your LOCAL machine for load testing, evaluation, and monitoring.
+#
+#   pip install -r requirements.txt
+openai
+requests
+locust
+python-dotenv

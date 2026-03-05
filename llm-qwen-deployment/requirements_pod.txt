@@ -1,0 +1,20 @@
+# Install on each RunPod pod to run custom_server.py.
+# Versions pinned to match LLM_inference_from_scratch.ipynb (where INT4 works).
+#
+# On the pod (after SSH):
+#   pip install -r requirements_pod.txt
+#
+# If the RunPod image already has torch/CUDA, you can skip torch or install
+# only the other deps first and see if the pre-installed torch is compatible.
+# For torch 2.10.0+cu128 (matches notebook), use:
+#   pip install torch==2.10.0 --index-url https://download.pytorch.org/whl/cu128
+# then: pip install -r requirements_pod.txt
+#
+transformers==5.0.0
+bitsandbytes==0.49.2
+accelerate==1.12.0
+huggingface-hub==1.5.0
+# torch==2.10.0
+fastapi
+uvicorn[standard]
+pynvml
