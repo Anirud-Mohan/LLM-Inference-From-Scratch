@@ -1,0 +1,362 @@
+[
+  {
+    "prompt": "Write a single paragraph moral story for children about a rabbit who learns the value of sharing in a forest.",
+    "story": "Once upon a time, there was a little rabbit named Timmy who lived in a cozy burrow deep in the heart of a dense forest. Timmy loved to explore and play with his friends, but he also had a secret wish - to have more toys than everyone else. One day, while playing with his friends, Timmy found a shiny new toy that no one else seemed to want or need. He thought it would be perfect for him to share, so he carefully placed it under a fallen tree branch. But as soon as he did, he heard a loud \"THUD!\" from behind him. It turned out that the toy belonged to a big, friendly squirrel named Sam. Sam said, \"Timmy, you're very kind! Sharing is important because we all need each other's help and happiness.\" From then on, Timmy learned the value of sharing and always made sure to include others in his games and adventures. He became known throughout the forest as the most generous and",
+    "scores": {
+      "moral_clarity": 0.6,
+      "age_appropriateness": 0.9,
+      "narrative_coherence": 0.3,
+      "relevance": 0.9,
+      "reason": "The story clearly aims to teach sharing with a rabbit in a forest and uses child-friendly language, but it contains contradictory actions and ends abruptly, reducing coherence."
+    },
+    "avg": 0.675
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a turtle who learns the value of patience in a garden.",
+    "story": "Once upon a time, there was a little turtle named Tommy who lived in a beautiful garden with his family. Tommy loved to explore and play in the garden every day. One sunny morning, he decided to go on an adventure across the garden's wide expanse. As he walked, he saw a flower that looked so pretty that he wanted to pick it up. But as he reached out to grab it, he realized how small and fragile the flower was. He knew he couldn't carry it all alone, so he returned home and told his parents about his adventure. His parents taught him that sometimes, we need to be patient and wait until we have what we want before we can take it. Tommy learned this lesson from his experience and became a better explorer and friend. From then on, he always remembered to be patient and not rush into things.",
+    "scores": {
+      "moral_clarity": 0.9,
+      "age_appropriateness": 1.0,
+      "narrative_coherence": 0.9,
+      "relevance": 1.0,
+      "reason": "The story clearly teaches patience with a child-friendly turtle-in-a-garden setting and coherent structure, though the flower/carrying detail is a bit odd."
+    },
+    "avg": 0.95
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a fox who learns the value of honesty in a village.",
+    "story": "Once upon a time, there was a clever and mischievous fox named Fido who lived in a small village. One day, while playing with his friends, Fido accidentally ate some of their food without asking them first. The villagers were very upset and told Fido to leave town forever. But Fido didn't want to go away because he missed his friends so much.\nOne day, Fido met an old wise owl who taught him that it's important to be honest and fair. The owl showed Fido how to apologize to his friends and make up for what he did wrong. Fido learned that being honest is not only good for others but also helps build trust and friendship.\nFrom then on, Fido always remembered the lesson from the owl and never forgot to say sorry when he made mistakes. He became a better friend and a more honest person, and the villagers welcomed him back into their community. Fido learned that honesty is the key to building strong relationships and making new",
+    "scores": {
+      "moral_clarity": 1.0,
+      "age_appropriateness": 0.9,
+      "narrative_coherence": 0.65,
+      "relevance": 0.95,
+      "reason": "The story clearly teaches honesty and making amends and is suitable for young children, but its paragraph ends abruptly which weakens the narrative coherence."
+    },
+    "avg": 0.875
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a bear who learns the value of kindness in a forest.",
+    "story": "Once upon a time, there was a kind-hearted bear named Benny who lived in a big, beautiful forest with many other animals. One day, while playing in the forest, Benny accidentally knocked over a flower pot and spilled some flowers all over the ground. The flowers were so pretty that they made Benny feel very sad. He realized that he had hurt someone's feelings unintentionally and felt terrible for what he did. Benny decided to apologize to the flowers and make them happy again. He picked up each flower carefully and placed it back where it belonged. From then on, Benny learned the importance of being kind and considerate towards others, no matter how small or insignificant their actions may seem. He always remembered his mistake and tried to do better from then on. Benny became known as the most compassionate and caring animal in the forest, and everyone respected him for his goodness. This is an important lesson for children to learn: even though we might not be able to change our past mistakes, we can always",
+    "scores": {
+      "moral_clarity": 0.9,
+      "age_appropriateness": 0.95,
+      "narrative_coherence": 0.75,
+      "relevance": 0.95,
+      "reason": "The story clearly teaches kindness and making amends and suits ages 4\u201310, but its final sentence is cut off and the ending feels slightly abrupt, reducing narrative coherence."
+    },
+    "avg": 0.8875
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a cat who learns the value of courage in a school.",
+    "story": "Once upon a time, there was a brave and curious cat named Whiskers who loved to explore her school's playground. One day, she decided to venture into an uncharted area that no other cat had ever gone before. She encountered a big, scary monster that seemed to be chasing her. Despite feeling scared, Whiskers remembered her bravery from when she played with her friends at home. She used all her strength and determination to fight off the monster and save herself. From then on, Whiskers learned that even though things can seem scary or difficult, we should never give up and always try our best to face them head-on. This experience taught her that being courageous is not just about facing your fears but also about standing up for what you believe in. Whiskers became known as the fearless cat who faced her challenges bravely and emerged victorious every time.",
+    "scores": {
+      "moral_clarity": 0.9,
+      "age_appropriateness": 0.9,
+      "narrative_coherence": 0.85,
+      "relevance": 0.95,
+      "reason": "Clear message about courage with a coherent school-based cat story suitable for children, though the monster/fighting detail is slightly intense and the 'standing up for beliefs' point is weakly connected."
+    },
+    "avg": 0.9
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a dog who learns the value of teamwork in a village.",
+    "story": "Once upon a time, there was a small village where everyone lived together as a team. The villagers were very friendly and kind to each other. One day, the village needed help from an animal friend named Max. Max was a big, strong dog who had never been in a village before. He was scared and unsure if he could do his job well.\nThe villagers welcomed Max with open arms and showed him around their village. They taught him how to use his strength and energy to help them. Max learned that working together as a team made everything easier and more fun. He also realized that being brave and not afraid of new things would make him better at his job.\nMax worked hard every day and soon became one of the best helpers in the village. Everyone appreciated Max's bravery and kindness. Max learned that teamwork is important because it makes everyone stronger and happier. From then on, Max always remembered what he learned and continued to be a good helper in the village.",
+    "scores": {
+      "moral_clarity": 1.0,
+      "age_appropriateness": 1.0,
+      "narrative_coherence": 0.9,
+      "relevance": 1.0,
+      "reason": "A clear, child-friendly single-paragraph about a village dog learning the value of teamwork with a simple beginning, middle, and end, though the telling is a bit generic."
+    },
+    "avg": 0.975
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a lion who learns the value of humility in a forest.",
+    "story": "Once upon a time, there was a mighty lion named Leo who lived in a lush forest. He was known throughout the land as the king of the jungle because he was strong and fearless. However, one day, while exploring his territory, Leo stumbled upon a small, timid rabbit named Rosie. The rabbit was so scared that it hid behind a bush, but Leo's prideful nature made him feel superior to any other animal.\nLeo thought he was too big and powerful to befriend or help anyone else, so he ignored Rosie and continued on his journey. But as he walked deeper into the forest, he realized that he had been wrong. The animals were all afraid of him, and they ran away from him whenever he came near. Leo felt ashamed and embarrassed for not being humble enough to listen to others' opinions.\nFrom then on, Leo learned the importance of humility and kindness. He decided to become a good friend to everyone in the forest, no matter their size or strength. He shared",
+    "scores": {
+      "moral_clarity": 0.9,
+      "age_appropriateness": 1.0,
+      "narrative_coherence": 0.4,
+      "relevance": 1.0,
+      "reason": "The story clearly teaches humility and kindness about a lion in a forest, but it ends abruptly which undermines its narrative coherence."
+    },
+    "avg": 0.825
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a mouse who learns the value of perseverance in a garden.",
+    "story": "Once upon a time, there was a little mouse named Milo who lived in a small hole under a flower bed. One day, while exploring his home, he stumbled upon a beautiful garden filled with colorful flowers and lush greenery. Excited by the sight, Milo decided to explore further into the garden and see what else he could find.\nAs he wandered through the garden, he encountered many obstacles - tall grasses blocking his path, thorny bushes that pricked his paws, and bees buzzing around him. But instead of giving up, Milo persevered, using all his tiny paws to push aside the obstacles and keep going forward.\nFinally, after much effort, Milo reached the heart of the garden where he found a hidden treasure - a shiny red ball that glowed in the sunlight. Overwhelmed with joy, Milo realized that even though it had been difficult at first, he had learned an important lesson: no matter how big or small the obstacle is, if you persevere,",
+    "scores": {
+      "moral_clarity": 0.8,
+      "age_appropriateness": 0.95,
+      "narrative_coherence": 0.7,
+      "relevance": 0.95,
+      "reason": "Conveys the value of perseverance clearly with a child-friendly mouse in a garden, but the paragraph ends abruptly with an unfinished final sentence which weakens the delivery."
+    },
+    "avg": 0.85
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about an elephant who learns the value of empathy in a village.",
+    "story": "Once upon a time, there was a big and friendly elephant named Max who lived in a small village with his family. One day, Max's friend, a little girl named Lily, came to visit him. She had lost her favorite toy and needed help finding it. Max saw how sad Lily looked and decided to help her. He followed her through the village streets until they found the missing toy. Max felt happy that he could make someone else's life better. From then on, Max learned that being kind and understanding towards others is very important. He realized that everyone needs help sometimes, and that we should always try our best to be there for them. Max became a good friend to many people in the village because he showed kindness and empathy. This experience taught Max that helping others can bring happiness and joy to their lives as well. So from now on, Max would always remember to be empathetic and supportive to those around him.",
+    "scores": {
+      "moral_clarity": 0.95,
+      "age_appropriateness": 0.95,
+      "narrative_coherence": 0.9,
+      "relevance": 1.0,
+      "reason": "The story clearly teaches empathy through Max the elephant helping Lily in a village, making it simple and suitable for young children though somewhat repetitive."
+    },
+    "avg": 0.95
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a penguin who learns the value of generosity in an ocean.",
+    "story": "Once upon a time, there was a little penguin named Puck who lived on a small island in the middle of the vast and icy ocean. Puck was very kind-hearted and always wanted to share his food with others. One day, while swimming in the ocean, he saw a group of fish struggling to escape from their nets. Puck knew that if he didn't help them out, they would never be free again. So, he decided to dive into the water and rescue the fish. When he came up for air, he realized that he had saved more than just the fish - he had also saved the lives of many other animals who were trapped in the nets. From that day on, Puck became known as the hero of the sea, and everyone on the island learned the importance of being generous and helping those in need.",
+    "scores": {
+      "moral_clarity": 0.8,
+      "age_appropriateness": 1.0,
+      "narrative_coherence": 0.9,
+      "relevance": 0.85,
+      "reason": "Clear, child-friendly story that effectively promotes generosity and is coherent, but it doesn't strongly show the penguin learning the value (he's already generous), so relevance to the 'learns' element and moral development is slightly weaker."
+    },
+    "avg": 0.8875
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a deer who learns the value of respect in a forest.",
+    "story": "Once upon a time, there was a beautiful deer named Daisy who lived in a lush green forest. She loved to play and explore with her friends, but one day she met a wise old owl who taught her an important lesson. The owl told Daisy that respecting others is very important because it helps us build strong relationships and make the world a better place. Daisy learned this lesson the hard way when she accidentally stepped on a flower, causing it to wilt. From then on, Daisy always respected the environment around her and never disturbed any living thing without permission. She became a role model for all the animals in the forest and showed them how to live in harmony with nature. Daisy's actions inspired many other animals to follow her example and learn the value of respect. From then on, the forest was filled with joy and peace as everyone coexisted in harmony. Daisy realized that being respectful towards others not only makes you feel good but also brings happiness to those around you. So, let us all be",
+    "scores": {
+      "moral_clarity": 0.9,
+      "age_appropriateness": 1.0,
+      "narrative_coherence": 0.7,
+      "relevance": 1.0,
+      "reason": "A clear, child-friendly story about Daisy learning respect in the forest, but the paragraph ends abruptly so the narrative feels slightly incomplete."
+    },
+    "avg": 0.9
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a squirrel who learns the value of responsibility in a garden.",
+    "story": "Once upon a time, there was a little squirrel named Sammy who lived in a beautiful garden with lots of colorful flowers and green leaves. One day, Sammy's friend Tommy the rabbit came to visit and asked if he could have some nuts from the garden. Sammy was happy to share his nuts but then realized that he had forgotten to bring any. Tommy got upset because he didn't get what he wanted. Sammy felt bad and promised to remember to always be responsible when sharing things with others. From that day on, Sammy made sure to always bring enough nuts or other treats to share with friends before going out to play. He learned that being responsible meant taking care of your belongings and keeping promises, which helped him make new friends and enjoy the garden even more.",
+    "scores": {
+      "moral_clarity": 0.9,
+      "age_appropriateness": 1.0,
+      "narrative_coherence": 0.9,
+      "relevance": 1.0,
+      "reason": "The short paragraph clearly teaches responsibility in a garden setting with a squirrel, uses child-appropriate language, has a simple beginning-middle-end, and directly matches the prompt."
+    },
+    "avg": 0.95
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a dolphin who learns the value of forgiveness in an ocean.",
+    "story": "Once upon a time, there was a beautiful dolphin named Dolphinie who lived in a vast and peaceful ocean. One day, while playing with her friends, she accidentally knocked over their favorite toy boat. She felt very guilty and sad because she knew that they would be upset if they saw her. But instead of running away or hiding, Dolphinie decided to take responsibility for her mistake and apologize to her friends. To her surprise, they forgave her and even laughed it off. From then on, Dolphinie learned the importance of forgiving others and being kind, no matter what happened. She continued to make new friends and enjoy the ocean's beauty, always remembering the lesson she had learned from her experience.",
+    "scores": {
+      "moral_clarity": 0.8,
+      "age_appropriateness": 1.0,
+      "narrative_coherence": 0.9,
+      "relevance": 0.9,
+      "reason": "A clear, child-friendly story with a coherent arc and matching setting, but the moral is slightly confused because the protagonist apologizes yet is said to learn to forgive others."
+    },
+    "avg": 0.9
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a butterfly who learns the value of gratitude in a garden.",
+    "story": "Once upon a time, there was a beautiful butterfly named Flutter. Flutter lived in a magical garden where flowers bloomed and butterflies danced. One day, Flutter met a little bird named Tweetie who had just hatched from an egg. Tweetie was so small that Flutter couldn't see her wings even though she was right next to her. Flutter felt sad because she didn't have anything to give Tweetie. But then, Flutter realized something important - she could still be kind and help others. So, Flutter decided to share some nectar with Tweetie. She gently touched Tweetie's tiny wings and said \"Thank you\" as she flew away. From that day on, Flutter always remembered to say \"thank you\" when someone helped her or shared something with her. And every time she did, she felt happy and grateful. Flutter learned that being thankful is very important, especially when we're small like Tweetie. From now on, Flutter would always remember to be kind and show gratitude to",
+    "scores": {
+      "moral_clarity": 0.8,
+      "age_appropriateness": 0.9,
+      "narrative_coherence": 0.3,
+      "relevance": 0.9,
+      "reason": "The story clearly teaches gratitude in simple, child-friendly language and fits the prompt, but the ending is abruptly cut off and some details (who says thank you and why) are slightly confusing."
+    },
+    "avg": 0.725
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a bee who learns the value of curiosity in a garden.",
+    "story": "Once upon a time, there was a curious little bee named Beezy who lived in a beautiful garden with her family. One day, while exploring the garden, she stumbled upon an old, forgotten flower pot that had been left behind. Curious and adventurous, Beezy decided to dig into it to see what secrets lay inside.\nAs she dug deeper, she discovered a hidden treasure - a tiny seedling! Excited by this discovery, Beezy planted the seedling in the soil of the garden, hoping it would grow into a beautiful flower. To her surprise, the seedling grew quickly and soon bloomed into a stunning flower!\nFrom that day on, Beezy became even more curious and adventurous than before. She explored every corner of the garden, discovering new things and learning valuable lessons along the way. And so, Beezy learned the importance of curiosity and exploration, as well as the value of hard work and perseverance, all thanks to the magic of a simple seedling in a forgotten",
+    "scores": {
+      "moral_clarity": 0.85,
+      "age_appropriateness": 0.95,
+      "narrative_coherence": 0.65,
+      "relevance": 0.95,
+      "reason": "The story clearly promotes curiosity (and even mentions perseverance), uses child-friendly language and fits the bee-in-a-garden prompt, but the paragraph ends abruptly which weakens the conclusion and overall coherence."
+    },
+    "avg": 0.85
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a wolf who learns the value of teamwork in a forest.",
+    "story": "Once upon a time, there was a young wolf named Wolfie who lived in a big, beautiful forest with many other animals. One day, Wolfie and his friends were playing together when they heard a loud noise coming from far away. They all ran to see what it was, but before they could reach the source of the sound, a group of hungry wolves attacked them.\nWolfie and his friends knew that they couldn't fight off so many wolves on their own, so they decided to work together. They formed a team and used their strengths to protect themselves. Wolfie's sharp teeth and claws, his friend Rabbit's quick feet, and the rest of the animals' strength and speed came together to help them survive.\nFrom that day on, Wolfie learned the importance of working together as a team. He realized that even though he might be small or weak compared to some of the other animals, if he worked hard and cooperated with his friends, he could overcome any challenge. From",
+    "scores": {
+      "moral_clarity": 0.9,
+      "age_appropriateness": 0.85,
+      "narrative_coherence": 0.35,
+      "relevance": 0.95,
+      "reason": "The story clearly promotes teamwork and fits the wolf/forest prompt and is generally child-appropriate, but its ending is abruptly cut off and the narrative is repetitive, reducing coherence."
+    },
+    "avg": 0.7625
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a frog who learns the value of honesty in an ocean.",
+    "story": "Once upon a time, there was a little frog named Timmy who lived on a small pond near a big, salty sea called Ocean. Timmy loved to hop around and explore his home, but he also had a secret - he couldn't see very well because of a bad eye condition. One day, while playing with his friends, Timmy accidentally dropped a shiny coin into the ocean. He quickly swam back to the shore and tried to hide it from everyone, hoping no one would find out. But when they all came to look for him, Timmy's best friend, Sally, saw the coin and knew something was wrong. She told her parents, who then took Timmy away from the pond and brought him to their house. Timmy learned that even though he couldn't see as well as other frogs, he still needed to be honest and tell the truth. From that day on, Timmy always kept his word and never lied again. He realized that being honest is more",
+    "scores": {
+      "moral_clarity": 0.8,
+      "age_appropriateness": 0.9,
+      "narrative_coherence": 0.6,
+      "relevance": 0.9,
+      "reason": "The story clearly teaches honesty and fits the frog/ocean prompt and child audience, but its ending is cut off and the 'taken away' detail weakens narrative coherence."
+    },
+    "avg": 0.8
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about an eagle who learns the value of patience in a village.",
+    "story": "Once upon a time, there was a brave and strong eagle named Eagle. He lived in a beautiful forest with his family. One day, he heard that there was a village far away where people needed help. Eagle decided to go there and help them.\nEagle started his journey from the forest. He flew high into the sky and saw the village. The villagers were very happy to see him because they had never seen such a big bird before. Eagle landed on a tree near the village and began helping the villagers build houses and grow crops.\nAs Eagle worked hard, he realized that it takes time to do things well. Sometimes, we need to be patient and not rush. Eagle learned this lesson when he noticed that some of the villagers were still living in tents even after building their homes. Eagle understood that if he wanted everyone to live comfortably, he needed to wait until all the villagers could move in.\nFrom then on, Eagle always remembered the lesson and stayed patient while doing everything. He became",
+    "scores": {
+      "moral_clarity": 0.9,
+      "age_appropriateness": 0.9,
+      "narrative_coherence": 0.25,
+      "relevance": 0.95,
+      "reason": "The story clearly teaches patience and is suitable for young children and matches the prompt, but its ending is cut off and leaves the narrative incomplete, hurting coherence."
+    },
+    "avg": 0.75
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a lamb who learns the value of kindness in a school.",
+    "story": "Once upon a time, there was a little lamb named Lila who lived on a farm with her mother and siblings. One day, Lila's teacher at school told them that they needed to be kinder to each other. Lila thought this was silly because she already treated everyone nicely. But then, something happened that made her realize how important it is to be kind.\nOne day, while playing outside, Lila saw another student being bullied by their classmates. She watched as the bully pushed and shoved the victim, causing them to cry. Lila felt sad and wanted to help. She ran over to the victim and said, \"Please don't cry, I'm here for you.\" The bully stopped and looked at Lila, surprised to see such a small lamb helping him out. From that moment on, Lila learned the importance of kindness and decided to always be there for others when they needed help. She became known as the \"kindness lamb\" and inspired many students to",
+    "scores": {
+      "moral_clarity": 0.9,
+      "age_appropriateness": 1.0,
+      "narrative_coherence": 0.6,
+      "relevance": 0.9,
+      "reason": "The story clearly promotes kindness and fits the prompt and age group, but it is slightly repetitive and ends abruptly, weakening its narrative coherence."
+    },
+    "avg": 0.85
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about an owl who learns the value of sharing in a forest.",
+    "story": "Once upon a time, there was a wise and beautiful owl named Ollie who lived in a cozy treehouse high up in the forest. One day, while exploring her home, she stumbled upon a small nest with two tiny owlets. The little ones were so cute that Ollie couldn't resist helping them out. She brought them food from her pantry and even built them a new, safer nest to keep them safe from predators.\n\nAs days went by, Ollie noticed something strange - the other owls in the forest seemed distant and unapproachable. They would stare at her with big, curious eyes but never come close. Ollie realized that they must be afraid of her sharp claws and talons. Feeling sad and confused, she decided to share her wisdom and kindness with everyone.\n\nShe started visiting each owl's treehouse, bringing them treats and stories. Slowly but surely, the other owls began to trust her. They learned that sharing is not only kind",
+    "scores": {
+      "moral_clarity": 0.7,
+      "age_appropriateness": 1.0,
+      "narrative_coherence": 0.6,
+      "relevance": 1.0,
+      "reason": "The story clearly promotes sharing and kindness in a forest owl setting and is child-appropriate, but it ends abruptly with an incomplete sentence and has minor coherence issues."
+    },
+    "avg": 0.825
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a cat who learns the value of gratitude in a village.",
+    "story": "Once upon a time, there was a little kitty named Whiskers who lived in a cozy village with her family. One day, while playing outside, Whiskers accidentally knocked over a flower pot and spilled some flowers all over the ground. The villagers were very upset because they had just planted their garden that morning. They scolded Whiskers and told her to clean up the mess right away. But instead of feeling guilty or ashamed, Whiskers realized that she had caused harm to someone else's hard work. She felt grateful for the opportunity to learn about responsibility and the importance of apologizing for one's mistakes. From then on, Whiskers always said sorry when she did something wrong and made sure to help others whenever possible. Her kindness and humility earned her many friends and respect from the villagers, and she became known as the most grateful and compassionate cat in the village.",
+    "scores": {
+      "moral_clarity": 0.7,
+      "age_appropriateness": 1.0,
+      "narrative_coherence": 0.8,
+      "relevance": 0.9,
+      "reason": "A simple village cat story that teaches gratitude, apology, and responsibility for children but slightly muddles the emotional point (gratitude vs guilt) and contains a small wording inconsistency."
+    },
+    "avg": 0.85
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a dog who learns the value of forgiveness in a school.",
+    "story": "Once upon a time, there was a little dog named Max who went to a new school with his friends. At first, he was very nervous and scared because he didn't know anyone. But then one day, he met a kind teacher who taught him that everyone makes mistakes and it's important to forgive them.\nMax learned this lesson from an incident where another student called him a name. He felt hurt and angry at first, but then he remembered what the teacher had told him. So he decided to forgive the other student and say sorry instead. From then on, Max made many more friends and never forgot the importance of forgiving others. He realized that being kind and forgiving is not only good for others, but also helps us feel better inside ourselves.",
+    "scores": {
+      "moral_clarity": 0.9,
+      "age_appropriateness": 1.0,
+      "narrative_coherence": 0.8,
+      "relevance": 0.95,
+      "reason": "The story clearly teaches forgiveness in a school setting with child-friendly language, though a small inconsistency about who apologizes slightly weakens the narrative coherence."
+    },
+    "avg": 0.9125
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a bear who learns the value of curiosity in a garden.",
+    "story": "Once upon a time, there was a curious little bear named Benny who loved to explore and learn new things. One day, while wandering through a beautiful garden, Benny stumbled upon an old, forgotten flower pot that had been left behind. Curiosity got the better of him, and he decided to dig it up and take a closer look inside.\nAs he opened the pot, he discovered a surprise - a tiny seedling! Excited by this discovery, Benny carefully planted the seedling back into the soil, hoping that it would grow into a beautiful flower one day. From then on, Benny became even more determined to explore and discover the world around him, always keeping his sense of wonder and curiosity alive. And so, Benny's adventures continued, with each new experience teaching him valuable lessons about the importance of exploring and learning from the unexpected.",
+    "scores": {
+      "moral_clarity": 0.9,
+      "age_appropriateness": 1.0,
+      "narrative_coherence": 0.9,
+      "relevance": 1.0,
+      "reason": "A simple, child-friendly tale about Benny the bear in a garden that clearly promotes curiosity, has a coherent beginning-middle-end, and directly matches the prompt."
+    },
+    "avg": 0.95
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a fox who learns the value of responsibility in a forest.",
+    "story": "Once upon a time, there was a clever and mischievous fox named Fido who lived in a lush forest. One day, while playing with his friends, Fido accidentally dropped an apple from a high branch into a deep pit. He tried to retrieve it but couldn't reach the bottom. His friends laughed at him, saying he should have been more careful. But Fido realized that if he didn't help himself, no one else would either. So, he decided to climb down the tree and use his paws to dig out the apple. When he finally got it, everyone praised him for being responsible and helping others. From then on, Fido learned the importance of taking care of things around him and always doing what's right.",
+    "scores": {
+      "moral_clarity": 0.9,
+      "age_appropriateness": 1.0,
+      "narrative_coherence": 0.8,
+      "relevance": 1.0,
+      "reason": "The tale clearly teaches personal responsibility in a child-friendly forest setting with a straightforward beginning-middle-end, though minor logical oddities (how the fox drops and retrieves the apple) slightly weaken coherence."
+    },
+    "avg": 0.925
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a penguin who learns the value of courage in an ocean.",
+    "story": "Once upon a time, there was a brave little penguin named Max who lived on a small island near the edge of the icy blue ocean. One day, as he swam along with his friends, they saw something that made their hearts race - a big ship coming towards them! The captain of the ship wanted to take Max and his friends back to the mainland so they could be safe from the cold water. But Max knew that if he didn't go with them, he would never see his family again. So, Max decided to swim all the way to the other side of the ocean where his family lived. He faced many challenges and dangers but he never gave up. In the end, Max's bravery paid off and he saved himself and his friends. From then on, Max learned that no matter how scary or difficult things might seem, if you have courage, anything is possible.",
+    "scores": {
+      "moral_clarity": 0.9,
+      "age_appropriateness": 0.95,
+      "narrative_coherence": 0.8,
+      "relevance": 1.0,
+      "reason": "The story clearly teaches courage and fits a penguin-in-the-ocean premise for children, but contains minor logical gaps (why refuse the captain's help and how friends were saved) that reduce coherence slightly."
+    },
+    "avg": 0.9125
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a turtle who learns the value of respect in a school.",
+    "story": "Once upon a time, there was a little turtle named Tommy who lived on a big pond. One day, Tommy's friend, a wise old fisherman named Mr. Smith, taught him an important lesson. Tommy learned that respecting others is very important and it helps us to make friends with them. Tommy realized that if he didn't listen to his friends or teachers, they would not want to be his friends anymore. From then on, Tommy always listened carefully and respected everyone around him. He became a good student and made many new friends at school. Tommy learned that being respectful makes you happy and brings you closer to others. So, remember to always show respect to others because it will help you build better relationships and have more fun.",
+    "scores": {
+      "moral_clarity": 0.9,
+      "age_appropriateness": 1.0,
+      "narrative_coherence": 0.9,
+      "relevance": 0.7,
+      "reason": "The story clearly teaches respect in simple, child-friendly language with a coherent arc, but the school setting and mentor choice feel awkward and the lesson is mostly told rather than shown."
+    },
+    "avg": 0.875
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a rabbit who learns the value of perseverance in a village.",
+    "story": "Once upon a time, there was a little rabbit named Timmy who lived in a small village with his family. One day, Timmy's mother told him that they were going to plant a garden and grow vegetables. Timmy was excited but nervous because he had never planted anything before. He knew it would be hard work, but he also knew that if he didn't try, he wouldn't have any food to eat.\nTimmy spent many days planting seeds and watering them every day. Sometimes, the weather was too hot or cold, and sometimes the rabbits ate the plants, but Timmy kept on trying. Finally, after several weeks, the garden started to produce vegetables. Timmy was so happy and proud of himself for being able to do something difficult.\nFrom this experience, Timmy learned an important lesson: no matter how big or small your task is, you can always start from scratch and keep going until you reach your goal. This lesson taught Timmy that perseverance is key to",
+    "scores": {
+      "moral_clarity": 0.85,
+      "age_appropriateness": 1.0,
+      "narrative_coherence": 0.75,
+      "relevance": 1.0,
+      "reason": "A clear, child-friendly story about a village rabbit learning perseverance, but the abrupt, unfinished ending slightly weakens its coherence."
+    },
+    "avg": 0.9
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about an elephant who learns the value of generosity in a forest.",
+    "story": "Once upon a time, there was an elephant named Max who lived in a big, lush forest with many other animals. One day, Max saw some seeds that had fallen from a tree and decided to take them home to eat. But as he was eating, he heard a little bird crying out for help because it couldn't find its way back to its nest. Max realized that if he wanted to be a good friend to the birds, he needed to share his food with them. So Max shared his seeds with the birds and they all flew away happily. From then on, Max learned the importance of being generous and sharing with others, no matter what kind of animal or creature you were. He became known as the most generous elephant in the forest and everyone respected him for his kindness.",
+    "scores": {
+      "moral_clarity": 1.0,
+      "age_appropriateness": 1.0,
+      "narrative_coherence": 0.95,
+      "relevance": 1.0,
+      "reason": "A simple, child-friendly single-paragraph forest tale where elephant Max shares seeds with a bird and learns generosity, providing a clear moral and coherent beginning, middle, and end that match the prompt."
+    },
+    "avg": 0.9875
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a lion who learns the value of empathy in a village.",
+    "story": "Once upon a time, there was a big and strong lion named Leo who lived in a beautiful jungle. One day, he decided to visit a small village that was far away from his home. When he arrived, he saw many people living together in harmony, but they were all very scared because they had never seen such a large animal before.\nLeo realized that these villagers needed help, so he decided to be their friend instead of being afraid of them. He played with the children, shared food with the adults, and even helped them build a new house. The villagers became very happy and grateful for Leo's kindness.\nFrom then on, Leo learned an important lesson - that it is not always safe or wise to be afraid of others. Instead, we should try to understand and connect with those around us, no matter how different they may seem. This experience taught Leo that empathy and friendship can bring happiness and understanding to everyone.",
+    "scores": {
+      "moral_clarity": 0.9,
+      "age_appropriateness": 1.0,
+      "narrative_coherence": 0.95,
+      "relevance": 1.0,
+      "reason": "A simple, child-friendly single paragraph about Leo the lion visiting a village that clearly promotes empathy and friendship, with a straightforward beginning, middle, and end, though one sentence is slightly awkwardly phrased."
+    },
+    "avg": 0.9625
+  },
+  {
+    "prompt": "Write a single paragraph moral story for children about a squirrel who learns the value of honesty in a garden.",
+    "story": "Once upon a time, there was a little squirrel named Sammy who lived in a beautiful garden with lots of colorful flowers and green leaves. One day, Sammy went to the garden to eat some nuts that he had hidden away from his friends. But when he came back home, he realized that one of his nuts was missing! He looked everywhere but couldn't find it. Then, he saw a big tree branch hanging down over the ground, and he thought he must have dropped it while running through the garden. So, he started looking again, hoping to find his nut. But no matter how hard he tried, he just couldn't find it. Finally, he decided to go back to the tree and look at the bottom of its branches. To his surprise, he found his nut right where he left it! Sammy learned an important lesson that day - if you lose something, don't blame yourself or others; instead, check your surroundings carefully before you start searching. And always remember, be honest",
+    "scores": {
+      "moral_clarity": 0.4,
+      "age_appropriateness": 0.95,
+      "narrative_coherence": 0.85,
+      "relevance": 0.7,
+      "reason": "The story is child-friendly and coherent with a garden squirrel protagonist, but the moral is muddled\u2014it emphasizes checking and not blaming more than clearly illustrating the value of honesty."
+    },
+    "avg": 0.725
+  }
+]
